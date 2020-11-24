@@ -1,12 +1,4 @@
-//
-// Assignment3.cpp
-//
-// Arsany Attalla
-// 10/09/2019
-// Assignment 3
-// a game the tracks 100 lives of mouse on an island
-// and determines if he drowned, escaped or starved
-//
+
 #include <iostream>
 #include <fstream>
 #include <cstdlib>
